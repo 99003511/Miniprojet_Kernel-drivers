@@ -1,2 +1,2 @@
-# Miniprojet_Kernal-drivers
-# Enabling peripheral
+# Miniprojct
+# Detecting number of people using PIR Motion Sensor & Beaglebone 
